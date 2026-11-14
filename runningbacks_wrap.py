@@ -64,7 +64,7 @@ if __name__ == "__main__":
                    ('Caden Creel', 2025, 'CFB',model),('Roman Hemby', 2025, 'CFB',model),
                    ('Darren Evans', 2010, 'CFB',model),('Ryan Williams',2010,'CFB',model),
                    ('David Wilson', 2010, 'CFB',model), ('Darren Evans', 2008, 'CFB',model),
-                   ('Ryan Williams',2009,'CFB',model),('Keyjuan Brown',2025,'CFB'),
+                   ('Ryan Williams',2009,'CFB',model),('Keyjuan Brown',2025,'CFB',model),
                    ('David Wilson', 2011, 'CFB',model),('Cam Cook', 2026, 'CFB',model),
                    ('DeSean Bishop', 2026, 'CFB',model),('Jamal Roberts', 2026, 'CFB',model),
                    ('Dierre Hill Jr.',2026,'CFB',model),('Marcellous Hawkins Jr.',2026,'CFB',model)]
